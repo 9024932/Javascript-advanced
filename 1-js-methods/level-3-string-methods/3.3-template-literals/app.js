@@ -16,7 +16,10 @@ const beschrijvingen = namen.map((naam, index) =>
 );
 
 
-/* jouw code hier - gebruik map() en template literals */
+const naamenTest = ['Jan', 'Marie', 'Piet', 'Lisa'];
+const leeftijdenTest = [25, 30, 22, 28];
+const stedenTest = ['Amsterdam', 'Rotterdam', 'Utrecht', 'Den Haag'];
+
 
 console.log('Beschrijvingen:', beschrijvingen);
 console.log('Verwacht: ["Jan (25 jaar) woont in Amsterdam.", ...]');
