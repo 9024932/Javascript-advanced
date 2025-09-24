@@ -23,3 +23,21 @@
 // Toon de wijzigingen op het scherm.
 
 // Gebruik geen arrow function in een object!
+const person = {
+name:"Juliany",
+age:"17",
+Birthday:"08-08-2008",
+alive:"Yes",
+hobbies: ["gamen","basketball"]
+}
+ const output = document.querySelector('.output');
+
+ output.innerHTML = `
+ <p>name: ${person.name}</p>
+ <p>name: ${person.age}</p>
+ <p>name: ${person.Birthday}</p>
+ <p>name: ${person.alive}</p>
+ <p>name: ${person.hobbies}</p>
+ `
+
+
