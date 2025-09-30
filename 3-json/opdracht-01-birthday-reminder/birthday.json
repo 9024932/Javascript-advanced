@@ -1,0 +1,32 @@
+ [
+
+{
+    "name": "Bertie Yates",
+    "age": "29 years",
+    "image": "img/download 3.jpg"
+},
+
+{
+    "name": "Hester Hogan",
+    "age": "32 years",
+    "image": "img/download5.jpg"
+},
+
+{
+    "name": "Larry Little",
+    "age": "36 years",
+    "image": "img/download.jpg"
+},
+
+{
+    "name": "Sean Walsh",
+    "age": "34 years",
+    "image": "img/download2.jpg"
+},
+
+{
+    "name": "Lola Gardner",
+    "age": "29 years",
+    "image": "img/download4.jpg"
+}
+]

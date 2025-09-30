@@ -1,0 +1,122 @@
+body {
+    font-family: 'Inter', Arial, sans-serif;
+    background: #faeaff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 420px;
+    margin: 60px auto;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    padding: 36px 32px 24px 32px;
+    min-height: 480px;
+}
+
+h1, .title {
+    text-align: left;
+    color: #22223b;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 28px;
+    margin-top: 0;
+}
+
+.birthday-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 28px 0;
+}
+
+.birthday-item {
+    display: flex;
+    align-items: center;
+    gap: 22px; 
+    margin-bottom: 22px;
+    background: none;
+    padding: 0 0 4px 0;
+    border-radius: 0;
+    box-shadow: none;
+    min-height: 80px; 
+}
+
+.avatar {
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: #e0e0e0;
+    flex-shrink: 0;
+    border: 3px solid #fff;
+    box-shadow: 0 2px 8px rgba(160, 120, 200, 0.10);
+}
+
+.birthday-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+}
+
+.birthday-name {
+    font-weight: 700;
+    color: #22223b;
+    font-size: 1.25rem;
+    margin-bottom: 4px;
+    line-height: 1.2;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.birthday-age {
+    color: #7a7a7a;
+    font-size: 1.05rem;
+    font-weight: 400;
+    line-height: 1.1;
+}
+
+.AmountofPeople {
+    font-size: 1.1rem;
+    color: #555;
+    margin-top: -12px;
+    margin-bottom: 18px;
+    font-weight: 500;
+}
+.clear-button {
+    width: 100%;
+    background: #e04be0;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 18px;
+    transition: background 0.2s;
+    letter-spacing: 0.02em;
+}
+
+.clear-button:hover {
+    background: #c13cc1;
+}
+
+/* Optioneel: responsive */
+@media (max-width: 500px) {
+    .container {
+        padding: 18px 4vw 18px 4vw;
+        min-height: unset;
+    }
+    .birthday-item {
+        gap: 10px;
+        min-height: 56px;
+    }
+    .avatar {
+        width: 44px;
+        height: 44px;
+    }
+}
