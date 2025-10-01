@@ -1,0 +1,84 @@
+body {
+    background: #fff;
+    font-family: Arial, sans-serif;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+.fn-header {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fn-header h1 {
+    font-size: 2em;
+    color: #222;
+    margin: 0;
+}
+
+.cosmetics-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    background: none;
+}
+
+.cosmetic-card {
+    /* Verwijder achtergrond, border, radius, padding, margin */
+    background: none;
+    border: none;
+    border-radius: 0;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    box-shadow: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cosmetic-img {
+    width: 80px;
+    height: 80px;
+    background: #fff;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    /* Alleen styling voor de afbeelding */
+    box-shadow: 0 2px 8px #ccc;
+    border: 1px solid #eee;
+}
+
+.cosmetic-name {
+    font-size: 1em;
+    color: #222;
+    margin-top: 4px;
+    font-weight: 500;
+}
+
+@media (max-width: 600px) {
+    .cosmetic-img {
+        width: 50px;
+        height: 50px;
+    }
+    .fn-header h1 {
+        font-size: 1.5rem;
+    }
+}
+    .cosmetics-grid {
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        padding: 16px 4vw;
+        gap: 14px;
+    }
+    .cosmetic-img {
+        width: 72px;
+        height: 72px;
+    }
+    .fn-header h1 {
+        font-size: 1.5rem;
+    }
+
