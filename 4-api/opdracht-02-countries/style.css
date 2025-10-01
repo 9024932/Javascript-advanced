@@ -1,0 +1,17 @@
+   #countries-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 16px;
+  margin: 32px;
+}
+.country-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  padding: 16px;
+  text-align: center;
+}
+.country-card img {
+  max-width: 100px;
+  margin-bottom: 8px;
+}
