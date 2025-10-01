@@ -1,0 +1,1220 @@
+{
+  "status": 200,
+  "data": {
+    "date": "2025-09-25T13:37:10Z",
+    "build": "++Fortnite+Release-37.31-CL-46047957-Windows",
+    "previousBuild": "++Fortnite+Release-37.30-CL-45814998-Windows",
+    "hashes": {
+      "all": "5743ca4b4dd8d789d3d2cacf4a1610294beee020",
+      "br": "60f7ed0d1546ee74c83970ea8a2b5383a1f658a3",
+      "instruments": "d68139503384c74ed556da70ef000e8cd37f0307",
+      "lego": "5360b528cd07fe94a0c6071cb0df6a3203f78031",
+      "legoKits": "ac23dcc2e77eaa79eb7b37a95333145c6bcc6658"
+    },
+    "lastAdditions": {
+      "all": "2025-09-26T00:00:00Z",
+      "br": "2025-09-26T00:00:00Z",
+      "tracks": "1970-01-01T00:00:00Z",
+      "instruments": "2025-09-25T13:37:10Z",
+      "cars": "1970-01-01T00:00:00Z",
+      "lego": "2025-09-25T13:37:19Z",
+      "legoKits": "2025-09-25T13:37:19Z",
+      "beans": "1970-01-01T00:00:00Z"
+    },
+    "items": {
+      "br": [
+        {
+          "id": "Backpack_StrideMiceDeep",
+          "name": "Gold Battery",
+          "description": "Discover something bold.",
+          "type": {
+            "value": "backpack",
+            "displayValue": "Back Bling",
+            "backendValue": "AthenaBackpack"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemicedeep/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemicedeep/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemicedeep/featured.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Backpack_StrideMiceGiant",
+          "name": "Silver Battery",
+          "description": "Discover something new.",
+          "type": {
+            "value": "backpack",
+            "displayValue": "Back Bling",
+            "backendValue": "AthenaBackpack"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemicegiant/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemicegiant/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemicegiant/featured.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Backpack_StrideMice_Bass",
+          "name": "Take Five Bass",
+          "description": "Lose your head.",
+          "type": {
+            "value": "backpack",
+            "displayValue": "Back Bling",
+            "backendValue": "AthenaBackpack"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemice_bass/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemice_bass/icon.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Backpack_StrideMice_Guitar",
+          "name": "Daft Punk Double-Neck",
+          "description": "Stay up all night.",
+          "type": {
+            "value": "backpack",
+            "displayValue": "Back Bling",
+            "backendValue": "AthenaBackpack"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemice_guitar/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemice_guitar/icon.png"
+          },
+          "variants": [
+            {
+              "channel": "Particle",
+              "options": [
+                {
+                  "tag": "Particle1",
+                  "name": "Default",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemice_guitar/variants/particle/particle1.png"
+                },
+                {
+                  "tag": "Particle2",
+                  "name": "No Idle FX",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/backpack_stridemice_guitar/variants/particle/particle2.png"
+                }
+              ]
+            }
+          ],
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Character_StrideMiceDeep",
+          "name": "GM08",
+          "description": "A little bit human.",
+          "type": {
+            "value": "outfit",
+            "displayValue": "Outfit",
+            "backendValue": "AthenaCharacter"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Epic"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/featured.png",
+            "lego": {
+              "small": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicedeep/small.png",
+              "large": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicedeep/large.png"
+            }
+          },
+          "variants": [
+            {
+              "channel": "Parts",
+              "type": "Style",
+              "options": [
+                {
+                  "tag": "Stage1",
+                  "name": "GM08",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/variants/parts/stage1.png"
+                },
+                {
+                  "tag": "Stage2",
+                  "name": "Gold GM08",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/variants/parts/stage2.png"
+                },
+                {
+                  "tag": "Stage3",
+                  "name": "Lucky GM08",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/variants/parts/stage3.png"
+                }
+              ]
+            },
+            {
+              "channel": "Emissive",
+              "type": "reactivity",
+              "options": [
+                {
+                  "tag": "Emissive1",
+                  "name": "on",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/variants/emissive/emissive1.png"
+                },
+                {
+                  "tag": "Emissive2",
+                  "name": "off",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicedeep/variants/emissive/emissive2.png"
+                }
+              ]
+            }
+          ],
+          "showcaseVideo": "8_u0Q4F-EmM",
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Character_StrideMiceGiant",
+          "name": "TB3",
+          "description": "Build a universe.",
+          "type": {
+            "value": "outfit",
+            "displayValue": "Outfit",
+            "backendValue": "AthenaCharacter"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Epic"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/featured.png",
+            "lego": {
+              "small": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicegiant/small.png",
+              "large": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicegiant/large.png"
+            }
+          },
+          "variants": [
+            {
+              "channel": "Parts",
+              "type": "Style",
+              "options": [
+                {
+                  "tag": "Stage1",
+                  "name": "TB3",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/variants/parts/stage1.png"
+                },
+                {
+                  "tag": "Stage2",
+                  "name": "Silver TB3",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/variants/parts/stage2.png"
+                },
+                {
+                  "tag": "Stage3",
+                  "name": "Lucky TB3",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/variants/parts/stage3.png"
+                }
+              ]
+            },
+            {
+              "channel": "Particle",
+              "type": "reactivity",
+              "options": [
+                {
+                  "tag": "Particle1",
+                  "name": "on",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/variants/particle/particle1.png"
+                },
+                {
+                  "tag": "Stage2",
+                  "name": "off",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/character_stridemicegiant/variants/particle/stage2.png"
+                }
+              ]
+            }
+          ],
+          "showcaseVideo": "ze-q5Ir56SQ",
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "EID_ModernMix",
+          "name": "Chandelier",
+          "description": "Time for a big swing.",
+          "type": {
+            "value": "emote",
+            "displayValue": "Emote",
+            "backendValue": "AthenaDance"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_modernmix/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_modernmix/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/eid_modernmix/featured.png"
+          },
+          "showcaseVideo": "GIdyzry4I_Q",
+          "dynamicPakId": "1018",
+          "added": "2025-09-26T00:00:00Z"
+        },
+        {
+          "id": "EID_RockClimb",
+          "name": "Beautiful Things",
+          "description": "null",
+          "type": {
+            "value": "emote",
+            "displayValue": "null",
+            "backendValue": "AthenaDance"
+          },
+          "rarity": {
+            "value": "uncommon",
+            "displayValue": "Uncommon",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_rockclimb/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_rockclimb/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/eid_rockclimb/featured.png"
+          },
+          "showcaseVideo": "cg-rojgDSZs",
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "EID_StrideMiceDeep",
+          "name": "Get Lucky",
+          "description": "null",
+          "type": {
+            "value": "emote",
+            "displayValue": "null",
+            "backendValue": "AthenaDance"
+          },
+          "rarity": {
+            "value": "uncommon",
+            "displayValue": "Uncommon",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep/featured.png"
+          },
+          "showcaseVideo": "vRxBd6HxkFE",
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "EID_StrideMiceDeep_Follower1",
+          "name": "null",
+          "description": "null",
+          "type": {
+            "value": "emote",
+            "displayValue": "Emote",
+            "backendValue": "AthenaDance"
+          },
+          "rarity": {
+            "value": "uncommon",
+            "displayValue": "Uncommon",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower1/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower1/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower1/featured.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "EID_StrideMiceDeep_Follower2",
+          "name": "null",
+          "description": "null",
+          "type": {
+            "value": "emote",
+            "displayValue": "Emote",
+            "backendValue": "AthenaDance"
+          },
+          "rarity": {
+            "value": "uncommon",
+            "displayValue": "Uncommon",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower2/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower2/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower2/featured.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "EID_StrideMiceDeep_Follower3",
+          "name": "null",
+          "description": "null",
+          "type": {
+            "value": "emote",
+            "displayValue": "Emote",
+            "backendValue": "AthenaDance"
+          },
+          "rarity": {
+            "value": "uncommon",
+            "displayValue": "Uncommon",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower3/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower3/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicedeep_follower3/featured.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "EID_StrideMiceGiant",
+          "name": "Around the World",
+          "description": "It goes round and round.",
+          "type": {
+            "value": "emote",
+            "displayValue": "Emote",
+            "backendValue": "AthenaDance"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicegiant/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicegiant/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/eid_stridemicegiant/featured.png"
+          },
+          "showcaseVideo": "5Lmvsu9kW1k",
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Emoticon_StrideMice",
+          "name": "Daft Helmets",
+          "description": "Express yourself on the battlefield.",
+          "type": {
+            "value": "emoji",
+            "displayValue": "Emoticon",
+            "backendValue": "AthenaEmoji"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoticon_stridemice/smallicon.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "LoadingScreen_StrideMice",
+          "name": "Random Access Robotics",
+          "description": "Change the paradigm.",
+          "type": {
+            "value": "loadingscreen",
+            "displayValue": "Loading Screen",
+            "backendValue": "AthenaLoadingScreen"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_stridemice/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_stridemice/icon.png",
+            "other": {
+              "background": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_stridemice/background.png"
+            }
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "LoadingScreen_StrideMiceKeyArt",
+          "name": "Daft Punk",
+          "description": "It begins.",
+          "type": {
+            "value": "loadingscreen",
+            "displayValue": "Loading Screen",
+            "backendValue": "AthenaLoadingScreen"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Uncommon"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_stridemicekeyart/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_stridemicekeyart/icon.png",
+            "other": {
+              "background": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_stridemicekeyart/background.png"
+            }
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Pickaxe_StrideMice_Bass",
+          "name": "Take Five Bass",
+          "description": "Lose your head.",
+          "type": {
+            "value": "pickaxe",
+            "displayValue": "Pickaxe",
+            "backendValue": "AthenaPickaxe"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_stridemice_bass/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_stridemice_bass/icon.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Pickaxe_StrideMice_Guitar",
+          "name": "Daft Punk Double-Neck",
+          "description": "Stay up all night.",
+          "type": {
+            "value": "pickaxe",
+            "displayValue": "Pickaxe",
+            "backendValue": "AthenaPickaxe"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_stridemice_guitar/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_stridemice_guitar/icon.png"
+          },
+          "variants": [
+            {
+              "channel": "Particle",
+              "type": "Style",
+              "options": [
+                {
+                  "tag": "Particle1",
+                  "name": "Default",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_stridemice_guitar/variants/particle/particle1.png"
+                },
+                {
+                  "tag": "Particle2",
+                  "name": "No Idle FX",
+                  "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_stridemice_guitar/variants/particle/particle2.png"
+                }
+              ]
+            }
+          ],
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Spray_StrideMice",
+          "name": "Daft Punk Profile",
+          "description": "Leave your mark.",
+          "type": {
+            "value": "spray",
+            "displayValue": "Spray",
+            "backendValue": "AthenaSpray"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Epic"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_stridemice/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/spray_stridemice/icon.png",
+            "other": {
+              "decal": "https://fortnite-api.com/images/cosmetics/br/spray_stridemice/decal.png"
+            }
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Spray_StrideMice2",
+          "name": "Daft Punk Was Here",
+          "description": "Leave your mark.",
+          "type": {
+            "value": "spray",
+            "displayValue": "Spray",
+            "backendValue": "AthenaSpray"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Epic"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_stridemice2/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/spray_stridemice2/icon.png",
+            "other": {
+              "decal": "https://fortnite-api.com/images/cosmetics/br/spray_stridemice2/decal.png"
+            }
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Wrap_StrideMiceDeep",
+          "name": "Daft Punk",
+          "description": "Show your style.",
+          "type": {
+            "value": "wrap",
+            "displayValue": "Wrap",
+            "backendValue": "AthenaItemWrap"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/wrap_stridemicedeep/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/wrap_stridemicedeep/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/wrap_stridemicedeep/featured.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        },
+        {
+          "id": "Wrap_StrideMiceGiant",
+          "name": "Daft Punk Future",
+          "description": "Show your style.",
+          "type": {
+            "value": "wrap",
+            "displayValue": "Wrap",
+            "backendValue": "AthenaItemWrap"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Rare"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "set": {
+            "value": "Daft Punk",
+            "text": "Part of the Daft Punk set.",
+            "backendValue": "BleakFeather"
+          },
+          "introduction": {
+            "chapter": "6",
+            "season": "5",
+            "text": "Introduced in Chapter 6, Season 5.",
+            "backendValue": 37
+          },
+          "images": {
+            "smallIcon": "https://fortnite-api.com/images/cosmetics/br/wrap_stridemicegiant/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/wrap_stridemicegiant/icon.png",
+            "featured": "https://fortnite-api.com/images/cosmetics/br/wrap_stridemicegiant/featured.png"
+          },
+          "added": "2025-09-25T13:37:50Z"
+        }
+      ],
+      "instruments": [
+        {
+          "id": "Sparks_StrideMice_Guitar",
+          "name": "Daft Punk Double-Neck",
+          "description": "Stay up all night.",
+          "type": {
+            "value": "guitar",
+            "displayValue": "Guitar",
+            "backendValue": "SparksGuitar"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Common"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/instruments/sparks_stridemice_guitar/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/instruments/sparks_stridemice_guitar/large.png"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "added": "2025-09-25T13:37:10Z"
+        },
+        {
+          "id": "Sparks_StrideMice_Bass",
+          "name": "Take Five Bass",
+          "description": "Lose your head.",
+          "type": {
+            "value": "bass",
+            "displayValue": "Bass",
+            "backendValue": "SparksBass"
+          },
+          "rarity": {
+            "value": "icon",
+            "displayValue": "Icon Series",
+            "backendValue": "EFortRarity::Common"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/instruments/sparks_stridemice_bass/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/instruments/sparks_stridemice_bass/large.png"
+          },
+          "series": {
+            "value": "Icon Series",
+            "image": "https://fortnite-api.com/images/cosmetics/series/creatorcollabseries.png",
+            "colors": [
+              "5cf2f3ff",
+              "2bc9caff",
+              "004c71ff",
+              "025253ff",
+              "000f2bff"
+            ],
+            "backendValue": "CreatorCollabSeries"
+          },
+          "added": "2025-09-25T13:37:10Z"
+        }
+      ],
+      "lego": [
+        {
+          "id": "JIDO_Character_StrideMiceDeep",
+          "cosmeticId": "Character_StrideMiceDeep",
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicedeep/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicedeep/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JIDO_Character_StrideMiceGiant",
+          "cosmeticId": "Character_StrideMiceGiant",
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicegiant/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/lego/character_stridemicegiant/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        }
+      ],
+      "legoKits": [
+        {
+          "id": "JBSID_SMSD_StrideMicePyramid",
+          "name": "Daft Punk Pyramid",
+          "type": {
+            "value": "legoset",
+            "displayValue": "Build",
+            "backendValue": "JunoBuildingSet"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbsid_smsd_stridemicepyramid/small.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_MusicA",
+          "name": "Daft Punk Robot Rock Rig",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_musica/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_musica/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_KitchenA",
+          "name": "Daft Punk Random Access Scullery",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_kitchena/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_kitchena/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_LivingroomC",
+          "name": "Daft Punk Digital Digs III",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_livingroomc/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_livingroomc/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_LivingroomA",
+          "name": "Daft Punk Digital Digs I",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_livingrooma/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_livingrooma/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_BedroomA",
+          "name": "Daft Punk Bedroom Faster Stronger",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_bedrooma/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_bedrooma/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_LivingroomB",
+          "name": "Daft Punk Digital Digs II",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_livingroomb/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_livingroomb/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_PyramidLight",
+          "name": "Daft Punk Pyramid Lights",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_pyramidlight/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_pyramidlight/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        },
+        {
+          "id": "JBPID_SMCP_GeneralDecorA",
+          "name": "Daft Punk Homework Housewares",
+          "type": {
+            "value": "legoprop",
+            "displayValue": "Decor Bundle",
+            "backendValue": "JunoBuildingProp"
+          },
+          "images": {
+            "small": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_generaldecora/small.png",
+            "large": "https://fortnite-api.com/images/cosmetics/legokits/jbpid_smcp_generaldecora/large.png"
+          },
+          "added": "2025-09-25T13:37:19Z"
+        }
+      ]
+    }
+  }
+}
