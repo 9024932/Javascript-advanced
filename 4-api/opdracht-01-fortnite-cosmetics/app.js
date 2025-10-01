@@ -1,25 +1,17 @@
-const grid = document.getElementById("cosmeticsGrid");
-
-// Gebruik lokale JSON in plaats van externe API
-fetch("./fortnite.json")
-  .then(res => res.json())
-  .then(data => {
-    // Controleer of er data is
-    if (!data || !data.data || !data.data.items || !data.data.items.br) return;
-
-    grid.innerHTML = ""; // leeg grid
-    data.data.items.br.forEach(item => {
-      // Kies de beste beschikbare afbeelding
-      const imgSrc = item.images.icon || item.images.smallIcon || "";
-      grid.innerHTML += `
-        <div class="cosmetic-card">
-          <img src="${imgSrc}" alt="${item.name}" class="cosmetic-img">
-          <div class="cosmetic-name">${item.name}</div>
-        </div>
-      `;
-    });
-  })
-  .catch(err => {
-    grid.innerHTML = "<p>Kan cosmetics niet laden.</p>";
-    console.error(err);
-  });
+let output = document.querySelector('#FortniteCosmetics')
+ 
+ 
+fetch('https://fortnite-api.com/v2/cosmetics/new')
+.then((response) => response.json())
+.then((data) => {
+    console.log(data.data.items.br);
+    for (let item of data.data.items.br){
+        output.innerHTML += `
+             
+            <h3>${item.name}</h3>
+            <img src=${item.images.featured}>
+           
+        `;
+    }
+ 
+});
